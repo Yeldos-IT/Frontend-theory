@@ -1,18 +1,18 @@
-**Как работает интернет?**
+### **How the Internet Works**
 
 **DNS (Domain Name System):**
-Переводит доменные имена (например, google.com) в IP-адреса, которые понимают компьютеры.
-Как это работает: Браузер запрашивает у DNS-сервера IP-адрес, а затем подключается к нему. Это как искать номер телефона друга в справочнике и позвонить.
+Translates domain names (e.g., google.com) into IP addresses that computers understand.
+How it works: The browser asks the DNS server for the IP address, then connects to it. This is like looking up a friend's phone number in a directory and calling them.
 
-**HTTP и HTTPS:**
-HTTP (HyperText Transfer Protocol): протокол передачи данных между браузером и сервером.
-HTTPS: то же самое, но с использованием шифрования для безопасности. Данные шифруются, чтобы никто не подсмотрел, например, твои пароли.
-Структура запроса: клиент (браузер) отправляет запрос на сервер, сервер отвечает (например, загружает HTML-страницу).
+**HTTP and HTTPS:**
+HTTP (HyperText Transfer Protocol): The protocol for transferring data between a browser and a server.
+HTTPS: The same, but with encryption for security. Data is encrypted so no one can intercept sensitive information like passwords.
+Request structure: The client (browser) sends a request to the server, and the server responds (e.g., with an HTML page).
 
-**IP-адреса и домены:**
-IP-адрес — уникальный идентификатор устройства в сети (например, 192.168.0.1).
-Домены — читаемые имена для IP-адресов (например, example.com).
+**IP Addresses and Domains:**
+An IP address is a unique identifier for a device on a network (e.g., 192.168.0.1).
+Domains are human-readable names for IP addresses (e.g., example.com).
 
-**Сервера и хостинг:**
-Серверы хранят данные веб-сайтов и отвечают на запросы клиентов.
-Хостинг — это услуга по предоставлению серверов для хранения сайтов.
+**Servers and Hosting:**
+Servers store website data and respond to client requests.
+Hosting is a service that provides servers for storing websites.
